@@ -1,2 +1,2 @@
 # FSDS-ineuron-Python-
-jupyter notebook
+tools-jupyter notebook
